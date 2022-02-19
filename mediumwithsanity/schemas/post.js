@@ -9,6 +9,16 @@ export default {
       type: 'string',
     },
     {
+      name: 'description',
+      title: 'Description',
+      type: 'string',
+    },
+    {
+      name: 'website',
+      title: 'Website Url',
+      type: 'url',
+    },
+    {
       name: 'slug',
       title: 'Slug',
       type: 'slug',
